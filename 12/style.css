@@ -1,0 +1,111 @@
+@charset "UTF-8";
+
+
+
+
+
+body{
+    background-color: black;
+    margin: 0;
+    padding: 0;
+    
+}
+
+
+header{
+    text-align: center;
+    color: white;
+}
+
+
+
+
+.primeira{
+    background: url(imagens/background001.jpg) no-repeat ;
+    background-size: cover ;
+    background-attachment: fixed;
+    background-position: center left ;
+    
+}
+.segunda{
+    background: url(imagens/background002.jpg) center left no-repeat ;
+    background-size: cover ;
+    background-attachment: fixed;
+}
+
+div{
+    text-align: left;
+    text-indent: 20px;
+   height: auto;
+   padding-top: 40px;
+   padding-bottom: 40px;
+   width: auto;
+   
+    
+}
+
+div.pri{
+    display: block;
+    background-color: white;
+    
+
+    
+}
+
+div.seg{
+    padding: 17px;
+    
+
+    
+}
+.seg2{
+    display: block;
+    background-color: rgba(255, 255, 255, 0.075);
+    width: 100%;
+    color: white;
+    max-width: 220px;
+    text-indent: 2px;
+    padding-top: 0.5px;
+   padding-bottom: 0.5px;
+    
+    
+    
+}
+
+
+div.ter{
+    background-color: white;
+    
+}
+
+div.qua{
+    padding:17px ;
+    
+
+    
+}
+
+.qua2{
+
+    background-color: rgba(71, 63, 63, 0.356);
+    width: 100%;
+    color: white;
+    max-width: 220px;
+    text-indent: 2px;
+    padding-top: 0.5px;
+    padding-bottom: 0.5px;
+     
+}
+
+div.qui{
+    background-color: white;
+    
+
+    
+}
+footer{
+    color: white;
+    text-align: center;
+
+}
+
