@@ -10,7 +10,9 @@
 }
 
 
+*{
 
+}
 
 
 body{
@@ -26,26 +28,43 @@ header {
     color: white;
     font-family: 'PassionOne-Bold', Verdana, Tahoma, sans-serif;
     font-size: 150%;
+    font-variant: small-caps;
+
     
 }
 header > p{
-    font-family: 'Courier New', Courier, monospace;
-font-size: small;
+    font-family:'Courier New', Courier, monospace ;
+    font-size: 0.6em;
+
 }
 a{
     text-decoration: none;
     color: white;
+    font-weight: bolder;
+    
+}
+
+a:hover{
+    text-decoration: underline;
+
+}
+
+abbr{
+    text-decoration: none;
 }
 
 
 
-
 .primeira{
-    background: url(imagens/background001.jpg) no-repeat ;
+    position: relative;
+    
+    background-image: url(imagens/background001.jpg) ;
     background-size: cover ;
     background-attachment: fixed;
-    background-position: center left ;
+    background-position: center center ;
     
+    
+   
 }
 .segunda{
     background: url(imagens/background002.jpg) center left no-repeat ;
@@ -57,8 +76,8 @@ div{
     text-align: left;
     text-indent: 20px;
    height: auto;
-   padding-top: 40px;
-   padding-bottom: 40px;
+   padding-top: 10vh;
+   padding-bottom: 10vh ;
    width: auto;
    font-family: 'Sriracha';
    
@@ -66,7 +85,7 @@ div{
 }
 
 div.pri{
-    display: block;
+    
     background-color: white;
     
 
