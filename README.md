@@ -5,7 +5,7 @@
 
 <P><a href="https://juvenciofigo.github.io/criados/12\ProjetoCordel.html" TARGET="_BLANK">2-projeto cordel</a></P>
 
-<p><a href="https://juvenciofigo.github.io/criados/10\index.html">1-Projeto android</a>1</p>
+<p><a href="https://juvenciofigo.github.io/criados/10\index.html" target="_blank">1-Projeto android</a></p>
 
 
 
