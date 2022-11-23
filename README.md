@@ -9,4 +9,3 @@
 <P><a href="https://juvenciofigo.github.io/criados/12\ProjetoCordel.html" TARGET="_BLANK">2-projeto cordel</a></P>
 
 
-
